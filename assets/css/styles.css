@@ -145,11 +145,17 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social .mailme {
-  padding-left: 20px;
+  padding-left: 25px;
 }
 .header .profile-content .social .mailme a {
   background: #fb866a;
 }
+
+.header .profile-content .social .mailme a:hover {
+  background: #ff6633;
+}
+
+
 /* ======= Sections======= */
 .sections-wrapper {
   padding-top: 60px;
