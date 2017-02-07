@@ -378,3 +378,11 @@ a.dotted-link:hover {
   }
 }
 
+/* custom */
+.header .profile-content .desc {
+  font-size: 16px;
+}
+.cert-logo-container {
+  margin-top: 40px;
+}
+
