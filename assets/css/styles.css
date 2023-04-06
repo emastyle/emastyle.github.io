@@ -386,3 +386,10 @@ a.dotted-link:hover {
   margin-top: 40px;
 }
 
+element.style {
+    /* padding-top: 20px; */
+}
+ul.list-inline.cert-logo-container li {
+    padding-bottom: 20px;
+}
+
