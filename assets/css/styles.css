@@ -398,3 +398,9 @@ ul.list-inline.cert-logo-container img {
     width: auto;
 }
 
+/* Visually remove white backgrounds from specific badge PNGs by blending with page background */
+ul.list-inline.cert-logo-container img[src$="3916b265-38cf-483d-8352-42a35e2738a2_badge.png"],
+ul.list-inline.cert-logo-container img[src$="02e5dda1-dd65-445e-8722-a403847a7857_badge.png"] {
+    mix-blend-mode: darken;
+}
+
