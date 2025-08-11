@@ -391,5 +391,10 @@ element.style {
 }
 ul.list-inline.cert-logo-container li {
     padding-bottom: 20px;
+    height: 70px;
+}
+ul.list-inline.cert-logo-container img {
+    height: 70px;
+    width: auto;
 }
 
